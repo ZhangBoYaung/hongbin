@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,1,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[{"code":41,"dataId":1,"value":1},{"code":41,"dataId":5,"value":1},{"code":41,"dataId":2,"value":1},{"code":41,"dataId":3,"value":1},{"code":41,"dataId":4,"value":1},{"code":41,"dataId":6,"value":1},{"code":43,"dataId":8,"value":1},{"code":43,"dataId":11,"value":1},{"code":43,"dataId":12,"value":1},{"code":43,"dataId":13,"value":1},{"code":43,"dataId":14,"value":1},{"code":43,"dataId":4,"value":1},{"code":43,"dataId":2,"value":1},{"code":43,"dataId":5,"value":1},{"code":43,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"李宏斌","nickname":"内蒙古物理学科带头人","note":"","profile":""}
+]
